@@ -6,7 +6,7 @@
 
 ## Documentation
 
-You will find detailed guides in [docs](docs) folder.
+!You will find detailed guides in [docs](docs) folder.
 
 ## Using Git development source
 
